@@ -1,0 +1,14 @@
+{
+  "name": "trust-cart-backend",
+  "version": "1.0.0",
+  "description": "Trust Cart backend API (zero-dependency Node.js, requires Node 18+)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "seed": "node seed.js --reset",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}

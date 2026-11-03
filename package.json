@@ -1,0 +1,15 @@
+{
+  "name": "trust-cart",
+  "version": "1.0.0",
+  "description": "Trust Cart - trust-centered e-commerce: AI image authenticity + price comparison",
+  "private": true,
+  "scripts": {
+    "start": "node run.js",
+    "start:api": "node backend/server.js",
+    "seed": "node backend/seed.js --reset",
+    "test": "node --test backend/test/api.test.js",
+    "build:frontend": "cd frontend && npm install && npm run build",
+    "dev:frontend": "cd frontend && npm run dev"
+  },
+  "license": "MIT"
+}

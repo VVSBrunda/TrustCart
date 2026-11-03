@@ -1,0 +1,508 @@
+[
+  {
+    "title": "Nova X5 Smartphone 128GB",
+    "brand": "Nova",
+    "category": "Electronics",
+    "attributes": [
+      "128GB",
+      "6.5 inch display",
+      "5000mAh battery",
+      "midnight blue"
+    ],
+    "store": "ShopMart",
+    "price": 14019,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "Nova X5 Smartphone 128GB",
+    "brand": "Nova",
+    "category": "Electronics",
+    "attributes": [
+      "128GB",
+      "6.5 inch display",
+      "5000mAh battery",
+      "midnight blue"
+    ],
+    "store": "MegaMall",
+    "price": 16279,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "Nova X5 Smartphone 128GB (Official Store)",
+    "brand": "Nova",
+    "category": "Electronics",
+    "attributes": [
+      "128GB",
+      "6.5 inch display",
+      "5000mAh battery",
+      "midnight blue"
+    ],
+    "store": "BazaarHub",
+    "price": 15709,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "AeroBuds Pro Wireless Earbuds",
+    "brand": "Aero",
+    "category": "Electronics",
+    "attributes": [
+      "bluetooth 5.3",
+      "noise cancelling",
+      "24h playback"
+    ],
+    "store": "ShopMart",
+    "price": 2559,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "AeroBuds Pro Wireless Earbuds",
+    "brand": "Aero",
+    "category": "Electronics",
+    "attributes": [
+      "bluetooth 5.3",
+      "noise cancelling",
+      "24h playback"
+    ],
+    "store": "MegaMall",
+    "price": 2369,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "AeroBuds Pro Wireless Earbuds (Official Store)",
+    "brand": "Aero",
+    "category": "Electronics",
+    "attributes": [
+      "bluetooth 5.3",
+      "noise cancelling",
+      "24h playback"
+    ],
+    "store": "QuickKart",
+    "price": 2589,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "PulseFit Smartwatch S2 (Official Store)",
+    "brand": "PulseFit",
+    "category": "Electronics",
+    "attributes": [
+      "amoled display",
+      "heart-rate sensor",
+      "7 day battery"
+    ],
+    "store": "BazaarHub",
+    "price": 2969,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "PulseFit Smartwatch S2 (Official Store)",
+    "brand": "PulseFit",
+    "category": "Electronics",
+    "attributes": [
+      "amoled display",
+      "heart-rate sensor",
+      "7 day battery"
+    ],
+    "store": "MegaMall",
+    "price": 3539,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "PulseFit Smartwatch S2",
+    "brand": "PulseFit",
+    "category": "Electronics",
+    "attributes": [
+      "amoled display",
+      "heart-rate sensor",
+      "7 day battery"
+    ],
+    "store": "QuickKart",
+    "price": 3099,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "TrailMate Backpack 30L",
+    "brand": "TrailMate",
+    "category": "Fashion",
+    "attributes": [
+      "30 litre",
+      "water resistant",
+      "laptop sleeve"
+    ],
+    "store": "QuickKart",
+    "price": 1879,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "TrailMate Backpack 30L",
+    "brand": "TrailMate",
+    "category": "Fashion",
+    "attributes": [
+      "30 litre",
+      "water resistant",
+      "laptop sleeve"
+    ],
+    "store": "ShopMart",
+    "price": 1829,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "TrailMate Backpack 30L",
+    "brand": "TrailMate",
+    "category": "Fashion",
+    "attributes": [
+      "30 litre",
+      "water resistant",
+      "laptop sleeve"
+    ],
+    "store": "MegaMall",
+    "price": 1929,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "UrbanStep Runner Sneakers (Official Store)",
+    "brand": "UrbanStep",
+    "category": "Fashion",
+    "attributes": [
+      "mesh upper",
+      "cushioned sole",
+      "unisex"
+    ],
+    "store": "ShopMart",
+    "price": 3099,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "UrbanStep Runner Sneakers (Official Store)",
+    "brand": "UrbanStep",
+    "category": "Fashion",
+    "attributes": [
+      "mesh upper",
+      "cushioned sole",
+      "unisex"
+    ],
+    "store": "BazaarHub",
+    "price": 3119,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "UrbanStep Runner Sneakers (Official Store)",
+    "brand": "UrbanStep",
+    "category": "Fashion",
+    "attributes": [
+      "mesh upper",
+      "cushioned sole",
+      "unisex"
+    ],
+    "store": "MegaMall",
+    "price": 3009,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "BrewMaster Electric Kettle 1.8L (Official Store)",
+    "brand": "BrewMaster",
+    "category": "Home",
+    "attributes": [
+      "1.8 litre",
+      "stainless steel",
+      "auto shut-off"
+    ],
+    "store": "ShopMart",
+    "price": 1489,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "BrewMaster Electric Kettle 1.8L (Official Store)",
+    "brand": "BrewMaster",
+    "category": "Home",
+    "attributes": [
+      "1.8 litre",
+      "stainless steel",
+      "auto shut-off"
+    ],
+    "store": "QuickKart",
+    "price": 1449,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "BrewMaster Electric Kettle 1.8L",
+    "brand": "BrewMaster",
+    "category": "Home",
+    "attributes": [
+      "1.8 litre",
+      "stainless steel",
+      "auto shut-off"
+    ],
+    "store": "MegaMall",
+    "price": 1319,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "Lumen LED Desk Lamp",
+    "brand": "Lumen",
+    "category": "Home",
+    "attributes": [
+      "led",
+      "3 brightness levels",
+      "usb powered"
+    ],
+    "store": "QuickKart",
+    "price": 1069,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "Lumen LED Desk Lamp (Official Store)",
+    "brand": "Lumen",
+    "category": "Home",
+    "attributes": [
+      "led",
+      "3 brightness levels",
+      "usb powered"
+    ],
+    "store": "ShopMart",
+    "price": 1069,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "Lumen LED Desk Lamp",
+    "brand": "Lumen",
+    "category": "Home",
+    "attributes": [
+      "led",
+      "3 brightness levels",
+      "usb powered"
+    ],
+    "store": "BazaarHub",
+    "price": 1059,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "ZenSound Bluetooth Speaker",
+    "brand": "ZenSound",
+    "category": "Electronics",
+    "attributes": [
+      "bluetooth 5.0",
+      "12h playback",
+      "waterproof"
+    ],
+    "store": "BazaarHub",
+    "price": 2059,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "ZenSound Bluetooth Speaker (Official Store)",
+    "brand": "ZenSound",
+    "category": "Electronics",
+    "attributes": [
+      "bluetooth 5.0",
+      "12h playback",
+      "waterproof"
+    ],
+    "store": "ShopMart",
+    "price": 1869,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "ZenSound Bluetooth Speaker (Official Store)",
+    "brand": "ZenSound",
+    "category": "Electronics",
+    "attributes": [
+      "bluetooth 5.0",
+      "12h playback",
+      "waterproof"
+    ],
+    "store": "MegaMall",
+    "price": 1999,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "Hidecraft Classic Leather Wallet (Official Store)",
+    "brand": "Hidecraft",
+    "category": "Fashion",
+    "attributes": [
+      "genuine leather",
+      "6 card slots",
+      "bifold"
+    ],
+    "store": "ShopMart",
+    "price": 799,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "Hidecraft Classic Leather Wallet",
+    "brand": "Hidecraft",
+    "category": "Fashion",
+    "attributes": [
+      "genuine leather",
+      "6 card slots",
+      "bifold"
+    ],
+    "store": "MegaMall",
+    "price": 899,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "Hidecraft Classic Leather Wallet (Official Store)",
+    "brand": "Hidecraft",
+    "category": "Fashion",
+    "attributes": [
+      "genuine leather",
+      "6 card slots",
+      "bifold"
+    ],
+    "store": "QuickKart",
+    "price": 859,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "AeroBuds Lite Wireless Earbuds",
+    "brand": "Aero",
+    "category": "Electronics",
+    "attributes": [
+      "bluetooth 5.1",
+      "18h playback"
+    ],
+    "store": "BazaarHub",
+    "price": 1689,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "AeroBuds Lite Wireless Earbuds",
+    "brand": "Aero",
+    "category": "Electronics",
+    "attributes": [
+      "bluetooth 5.1",
+      "18h playback"
+    ],
+    "store": "QuickKart",
+    "price": 1449,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "AeroBuds Lite Wireless Earbuds",
+    "brand": "Aero",
+    "category": "Electronics",
+    "attributes": [
+      "bluetooth 5.1",
+      "18h playback"
+    ],
+    "store": "MegaMall",
+    "price": 1559,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "Nova X5 Smartphone 256GB (Official Store)",
+    "brand": "Nova",
+    "category": "Electronics",
+    "attributes": [
+      "256GB",
+      "6.5 inch display",
+      "5000mAh battery",
+      "wine red"
+    ],
+    "store": "QuickKart",
+    "price": 17999,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "Nova X5 Smartphone 256GB",
+    "brand": "Nova",
+    "category": "Electronics",
+    "attributes": [
+      "256GB",
+      "6.5 inch display",
+      "5000mAh battery",
+      "wine red"
+    ],
+    "store": "MegaMall",
+    "price": 20689,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "Nova X5 Smartphone 256GB (Official Store)",
+    "brand": "Nova",
+    "category": "Electronics",
+    "attributes": [
+      "256GB",
+      "6.5 inch display",
+      "5000mAh battery",
+      "wine red"
+    ],
+    "store": "BazaarHub",
+    "price": 16609,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "AquaSteel Insulated Water Bottle 1L (Official Store)",
+    "brand": "AquaSteel",
+    "category": "Home",
+    "attributes": [
+      "1 litre",
+      "double wall",
+      "24h cold"
+    ],
+    "store": "ShopMart",
+    "price": 709,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "AquaSteel Insulated Water Bottle 1L",
+    "brand": "AquaSteel",
+    "category": "Home",
+    "attributes": [
+      "1 litre",
+      "double wall",
+      "24h cold"
+    ],
+    "store": "MegaMall",
+    "price": 589,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "AquaSteel Insulated Water Bottle 1L",
+    "brand": "AquaSteel",
+    "category": "Home",
+    "attributes": [
+      "1 litre",
+      "double wall",
+      "24h cold"
+    ],
+    "store": "QuickKart",
+    "price": 749,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "Nova X3 Smartphone 64GB",
+    "brand": "Nova",
+    "category": "Electronics",
+    "attributes": [
+      "64GB",
+      "6.1 inch display"
+    ],
+    "store": "ShopMart",
+    "price": 9499,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "Generic True Wireless Earbuds",
+    "brand": "NoName",
+    "category": "Electronics",
+    "attributes": [
+      "bluetooth 5.0"
+    ],
+    "store": "QuickKart",
+    "price": 699,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  },
+  {
+    "title": "Steel Kettle 1.5L",
+    "brand": "KettleCo",
+    "category": "Home",
+    "attributes": [
+      "1.5 litre",
+      "stainless steel"
+    ],
+    "store": "MegaMall",
+    "price": 899,
+    "updatedAt": "2026-11-02T09:00:00Z"
+  }
+]

@@ -1,0 +1,687 @@
+[
+  {
+    "slug": "nova-x5-128",
+    "title": "Nova X5 Smartphone 128GB",
+    "brand": "Nova",
+    "category": "Electronics",
+    "price": 14999,
+    "attributes": [
+      "128GB",
+      "6.5 inch display",
+      "5000mAh battery",
+      "midnight blue"
+    ],
+    "description": "Dual-camera smartphone with a 6.5-inch display and all-day battery.",
+    "image": "nova-x5-128.jpg",
+    "sellerKey": "A",
+    "analysis": {
+      "score": 0.945,
+      "signals": [
+        {
+          "key": "compression",
+          "label": "Compression consistency",
+          "risk": 0.0,
+          "weight": 0.5,
+          "detail": "Compression error is evenly spread across the image."
+        },
+        {
+          "key": "noise",
+          "label": "Sensor-noise consistency",
+          "risk": 0.111,
+          "weight": 0.5,
+          "detail": "Grain / noise pattern is uniform across the image."
+        },
+        {
+          "key": "clone",
+          "label": "Repeated-region check",
+          "risk": 0.0,
+          "weight": 0.7,
+          "detail": "No duplicated regions detected."
+        },
+        {
+          "key": "metadata",
+          "label": "File metadata",
+          "risk": 0.0,
+          "weight": 0.5,
+          "detail": "Camera metadata present (Canon EOS 90D)."
+        }
+      ],
+      "model": "heuristic-forensics-v1",
+      "meta": {
+        "format": "JPEG",
+        "width": 800,
+        "height": 600,
+        "software": "",
+        "camera": "Canon EOS 90D",
+        "has_exif": true
+      }
+    }
+  },
+  {
+    "slug": "aerobuds-pro",
+    "title": "AeroBuds Pro Wireless Earbuds",
+    "brand": "Aero",
+    "category": "Electronics",
+    "price": 2499,
+    "attributes": [
+      "bluetooth 5.3",
+      "noise cancelling",
+      "24h playback"
+    ],
+    "description": "Active noise-cancelling earbuds with a 24-hour charging-case battery.",
+    "image": "aerobuds-pro.jpg",
+    "sellerKey": "A",
+    "analysis": {
+      "score": 0.972,
+      "signals": [
+        {
+          "key": "compression",
+          "label": "Compression consistency",
+          "risk": 0.056,
+          "weight": 0.5,
+          "detail": "Compression error is evenly spread across the image."
+        },
+        {
+          "key": "noise",
+          "label": "Sensor-noise consistency",
+          "risk": 0.0,
+          "weight": 0.5,
+          "detail": "Grain / noise pattern is uniform across the image."
+        },
+        {
+          "key": "clone",
+          "label": "Repeated-region check",
+          "risk": 0.0,
+          "weight": 0.7,
+          "detail": "No duplicated regions detected."
+        },
+        {
+          "key": "metadata",
+          "label": "File metadata",
+          "risk": 0.0,
+          "weight": 0.5,
+          "detail": "Camera metadata present (Canon EOS 90D)."
+        }
+      ],
+      "model": "heuristic-forensics-v1",
+      "meta": {
+        "format": "JPEG",
+        "width": 800,
+        "height": 600,
+        "software": "",
+        "camera": "Canon EOS 90D",
+        "has_exif": true
+      }
+    }
+  },
+  {
+    "slug": "pulsefit-s2",
+    "title": "PulseFit Smartwatch S2",
+    "brand": "PulseFit",
+    "category": "Electronics",
+    "price": 3299,
+    "attributes": [
+      "amoled display",
+      "heart-rate sensor",
+      "7 day battery"
+    ],
+    "description": "Fitness smartwatch with heart-rate tracking and a 7-day battery.",
+    "image": "pulsefit-s2.jpg",
+    "sellerKey": "A",
+    "analysis": {
+      "score": 0.336,
+      "signals": [
+        {
+          "key": "compression",
+          "label": "Compression consistency",
+          "risk": 0.001,
+          "weight": 0.5,
+          "detail": "Compression error is evenly spread across the image."
+        },
+        {
+          "key": "noise",
+          "label": "Sensor-noise consistency",
+          "risk": 0.778,
+          "weight": 0.5,
+          "detail": "Some regions have noticeably different noise from their surroundings."
+        },
+        {
+          "key": "clone",
+          "label": "Repeated-region check",
+          "risk": 0.0,
+          "weight": 0.7,
+          "detail": "No duplicated regions detected."
+        },
+        {
+          "key": "metadata",
+          "label": "File metadata",
+          "risk": 0.9,
+          "weight": 0.5,
+          "detail": "File metadata names editing software (Adobe Photoshop 25.1)."
+        }
+      ],
+      "model": "heuristic-forensics-v1",
+      "meta": {
+        "format": "JPEG",
+        "width": 800,
+        "height": 600,
+        "software": "Adobe Photoshop 25.1",
+        "camera": "",
+        "has_exif": true
+      }
+    }
+  },
+  {
+    "slug": "trailmate-30",
+    "title": "TrailMate Backpack 30L",
+    "brand": "TrailMate",
+    "category": "Fashion",
+    "price": 1899,
+    "attributes": [
+      "30 litre",
+      "water resistant",
+      "laptop sleeve"
+    ],
+    "description": "Water-resistant 30L daypack with padded laptop sleeve.",
+    "image": "trailmate-30.jpg",
+    "sellerKey": "B",
+    "analysis": {
+      "score": 1.0,
+      "signals": [
+        {
+          "key": "compression",
+          "label": "Compression consistency",
+          "risk": 0.0,
+          "weight": 0.5,
+          "detail": "Compression error is evenly spread across the image."
+        },
+        {
+          "key": "noise",
+          "label": "Sensor-noise consistency",
+          "risk": 0.0,
+          "weight": 0.5,
+          "detail": "Grain / noise pattern is uniform across the image."
+        },
+        {
+          "key": "clone",
+          "label": "Repeated-region check",
+          "risk": 0.0,
+          "weight": 0.7,
+          "detail": "No duplicated regions detected."
+        },
+        {
+          "key": "metadata",
+          "label": "File metadata",
+          "risk": 0.0,
+          "weight": 0.5,
+          "detail": "Camera metadata present (Canon EOS 90D)."
+        }
+      ],
+      "model": "heuristic-forensics-v1",
+      "meta": {
+        "format": "JPEG",
+        "width": 800,
+        "height": 600,
+        "software": "",
+        "camera": "Canon EOS 90D",
+        "has_exif": true
+      }
+    }
+  },
+  {
+    "slug": "urban-runner",
+    "title": "UrbanStep Runner Sneakers",
+    "brand": "UrbanStep",
+    "category": "Fashion",
+    "price": 2799,
+    "attributes": [
+      "mesh upper",
+      "cushioned sole",
+      "unisex"
+    ],
+    "description": "Lightweight mesh running shoes with a cushioned sole.",
+    "image": "urban-runner.jpg",
+    "sellerKey": "B",
+    "analysis": {
+      "score": 1.0,
+      "signals": [
+        {
+          "key": "compression",
+          "label": "Compression consistency",
+          "risk": 0.0,
+          "weight": 0.5,
+          "detail": "Compression error is evenly spread across the image."
+        },
+        {
+          "key": "noise",
+          "label": "Sensor-noise consistency",
+          "risk": 0.0,
+          "weight": 0.5,
+          "detail": "Grain / noise pattern is uniform across the image."
+        },
+        {
+          "key": "clone",
+          "label": "Repeated-region check",
+          "risk": 0.0,
+          "weight": 0.7,
+          "detail": "No duplicated regions detected."
+        },
+        {
+          "key": "metadata",
+          "label": "File metadata",
+          "risk": 0.0,
+          "weight": 0.5,
+          "detail": "Camera metadata present (Canon EOS 90D)."
+        }
+      ],
+      "model": "heuristic-forensics-v1",
+      "meta": {
+        "format": "JPEG",
+        "width": 800,
+        "height": 600,
+        "software": "",
+        "camera": "Canon EOS 90D",
+        "has_exif": true
+      }
+    }
+  },
+  {
+    "slug": "brewmaster-18",
+    "title": "BrewMaster Electric Kettle 1.8L",
+    "brand": "BrewMaster",
+    "category": "Home",
+    "price": 1299,
+    "attributes": [
+      "1.8 litre",
+      "stainless steel",
+      "auto shut-off"
+    ],
+    "description": "Stainless-steel 1.8L kettle with auto shut-off and boil-dry protection.",
+    "image": "brewmaster-18.jpg",
+    "sellerKey": "B",
+    "analysis": {
+      "score": 1.0,
+      "signals": [
+        {
+          "key": "compression",
+          "label": "Compression consistency",
+          "risk": 0.0,
+          "weight": 0.5,
+          "detail": "Compression error is evenly spread across the image."
+        },
+        {
+          "key": "noise",
+          "label": "Sensor-noise consistency",
+          "risk": 0.0,
+          "weight": 0.5,
+          "detail": "Grain / noise pattern is uniform across the image."
+        },
+        {
+          "key": "clone",
+          "label": "Repeated-region check",
+          "risk": 0.0,
+          "weight": 0.7,
+          "detail": "No duplicated regions detected."
+        },
+        {
+          "key": "metadata",
+          "label": "File metadata",
+          "risk": 0.0,
+          "weight": 0.5,
+          "detail": "Camera metadata present (Canon EOS 90D)."
+        }
+      ],
+      "model": "heuristic-forensics-v1",
+      "meta": {
+        "format": "JPEG",
+        "width": 800,
+        "height": 600,
+        "software": "",
+        "camera": "Canon EOS 90D",
+        "has_exif": true
+      }
+    }
+  },
+  {
+    "slug": "lumen-lamp",
+    "title": "Lumen LED Desk Lamp",
+    "brand": "Lumen",
+    "category": "Home",
+    "price": 999,
+    "attributes": [
+      "led",
+      "3 brightness levels",
+      "usb powered"
+    ],
+    "description": "Adjustable LED desk lamp with three brightness levels.",
+    "image": "lumen-lamp.jpg",
+    "sellerKey": "B",
+    "analysis": {
+      "score": 0.174,
+      "signals": [
+        {
+          "key": "compression",
+          "label": "Compression consistency",
+          "risk": 0.058,
+          "weight": 0.5,
+          "detail": "Compression error is evenly spread across the image."
+        },
+        {
+          "key": "noise",
+          "label": "Sensor-noise consistency",
+          "risk": 1.0,
+          "weight": 0.5,
+          "detail": "Some regions have noticeably different noise from their surroundings."
+        },
+        {
+          "key": "clone",
+          "label": "Repeated-region check",
+          "risk": 0.5,
+          "weight": 0.7,
+          "detail": "Parts of the image appear to be duplicated (possible clone-stamping)."
+        },
+        {
+          "key": "metadata",
+          "label": "File metadata",
+          "risk": 0.9,
+          "weight": 0.5,
+          "detail": "File metadata names editing software (Adobe Photoshop 25.1)."
+        }
+      ],
+      "model": "heuristic-forensics-v1",
+      "meta": {
+        "format": "JPEG",
+        "width": 800,
+        "height": 600,
+        "software": "Adobe Photoshop 25.1",
+        "camera": "",
+        "has_exif": true
+      }
+    }
+  },
+  {
+    "slug": "zensound-speaker",
+    "title": "ZenSound Bluetooth Speaker",
+    "brand": "ZenSound",
+    "category": "Electronics",
+    "price": 1799,
+    "attributes": [
+      "bluetooth 5.0",
+      "12h playback",
+      "waterproof"
+    ],
+    "description": "Portable waterproof Bluetooth speaker with 12-hour playback.",
+    "image": "zensound-speaker.jpg",
+    "sellerKey": "A",
+    "analysis": {
+      "score": 0.466,
+      "signals": [
+        {
+          "key": "compression",
+          "label": "Compression consistency",
+          "risk": 0.0,
+          "weight": 0.5,
+          "detail": "Compression error is evenly spread across the image."
+        },
+        {
+          "key": "noise",
+          "label": "Sensor-noise consistency",
+          "risk": 0.306,
+          "weight": 0.5,
+          "detail": "Grain / noise pattern is uniform across the image."
+        },
+        {
+          "key": "clone",
+          "label": "Repeated-region check",
+          "risk": 0.0,
+          "weight": 0.7,
+          "detail": "No duplicated regions detected."
+        },
+        {
+          "key": "metadata",
+          "label": "File metadata",
+          "risk": 0.9,
+          "weight": 0.5,
+          "detail": "File metadata names editing software (Adobe Photoshop 25.1)."
+        }
+      ],
+      "model": "heuristic-forensics-v1",
+      "meta": {
+        "format": "JPEG",
+        "width": 800,
+        "height": 600,
+        "software": "Adobe Photoshop 25.1",
+        "camera": "",
+        "has_exif": true
+      }
+    }
+  },
+  {
+    "slug": "hidecraft-wallet",
+    "title": "Hidecraft Classic Leather Wallet",
+    "brand": "Hidecraft",
+    "category": "Fashion",
+    "price": 799,
+    "attributes": [
+      "genuine leather",
+      "6 card slots",
+      "bifold"
+    ],
+    "description": "Bifold genuine-leather wallet with six card slots.",
+    "image": "hidecraft-wallet.jpg",
+    "sellerKey": "B",
+    "analysis": {
+      "score": 1.0,
+      "signals": [
+        {
+          "key": "compression",
+          "label": "Compression consistency",
+          "risk": 0.0,
+          "weight": 0.5,
+          "detail": "Compression error is evenly spread across the image."
+        },
+        {
+          "key": "noise",
+          "label": "Sensor-noise consistency",
+          "risk": 0.0,
+          "weight": 0.5,
+          "detail": "Grain / noise pattern is uniform across the image."
+        },
+        {
+          "key": "clone",
+          "label": "Repeated-region check",
+          "risk": 0.0,
+          "weight": 0.7,
+          "detail": "No duplicated regions detected."
+        },
+        {
+          "key": "metadata",
+          "label": "File metadata",
+          "risk": 0.0,
+          "weight": 0.5,
+          "detail": "Camera metadata present (Canon EOS 90D)."
+        }
+      ],
+      "model": "heuristic-forensics-v1",
+      "meta": {
+        "format": "JPEG",
+        "width": 800,
+        "height": 600,
+        "software": "",
+        "camera": "Canon EOS 90D",
+        "has_exif": true
+      }
+    }
+  },
+  {
+    "slug": "aerobuds-lite",
+    "title": "AeroBuds Lite Wireless Earbuds",
+    "brand": "Aero",
+    "category": "Electronics",
+    "price": 1499,
+    "attributes": [
+      "bluetooth 5.1",
+      "18h playback"
+    ],
+    "description": "Entry-level wireless earbuds with 18-hour battery life.",
+    "image": "aerobuds-lite.jpg",
+    "sellerKey": "A",
+    "analysis": {
+      "score": 0.981,
+      "signals": [
+        {
+          "key": "compression",
+          "label": "Compression consistency",
+          "risk": 0.011,
+          "weight": 0.5,
+          "detail": "Compression error is evenly spread across the image."
+        },
+        {
+          "key": "noise",
+          "label": "Sensor-noise consistency",
+          "risk": 0.028,
+          "weight": 0.5,
+          "detail": "Grain / noise pattern is uniform across the image."
+        },
+        {
+          "key": "clone",
+          "label": "Repeated-region check",
+          "risk": 0.0,
+          "weight": 0.7,
+          "detail": "No duplicated regions detected."
+        },
+        {
+          "key": "metadata",
+          "label": "File metadata",
+          "risk": 0.0,
+          "weight": 0.5,
+          "detail": "Camera metadata present (Canon EOS 90D)."
+        }
+      ],
+      "model": "heuristic-forensics-v1",
+      "meta": {
+        "format": "JPEG",
+        "width": 800,
+        "height": 600,
+        "software": "",
+        "camera": "Canon EOS 90D",
+        "has_exif": true
+      }
+    }
+  },
+  {
+    "slug": "nova-x5-256",
+    "title": "Nova X5 Smartphone 256GB",
+    "brand": "Nova",
+    "category": "Electronics",
+    "price": 17999,
+    "attributes": [
+      "256GB",
+      "6.5 inch display",
+      "5000mAh battery",
+      "wine red"
+    ],
+    "description": "Higher-storage variant of the Nova X5 with 256GB of storage.",
+    "image": "nova-x5-256.jpg",
+    "sellerKey": "A",
+    "analysis": {
+      "score": 1.0,
+      "signals": [
+        {
+          "key": "compression",
+          "label": "Compression consistency",
+          "risk": 0.0,
+          "weight": 0.5,
+          "detail": "Compression error is evenly spread across the image."
+        },
+        {
+          "key": "noise",
+          "label": "Sensor-noise consistency",
+          "risk": 0.0,
+          "weight": 0.5,
+          "detail": "Grain / noise pattern is uniform across the image."
+        },
+        {
+          "key": "clone",
+          "label": "Repeated-region check",
+          "risk": 0.0,
+          "weight": 0.7,
+          "detail": "No duplicated regions detected."
+        },
+        {
+          "key": "metadata",
+          "label": "File metadata",
+          "risk": 0.0,
+          "weight": 0.5,
+          "detail": "Camera metadata present (Canon EOS 90D)."
+        }
+      ],
+      "model": "heuristic-forensics-v1",
+      "meta": {
+        "format": "JPEG",
+        "width": 800,
+        "height": 600,
+        "software": "",
+        "camera": "Canon EOS 90D",
+        "has_exif": true
+      }
+    }
+  },
+  {
+    "slug": "aqua-bottle",
+    "title": "AquaSteel Insulated Water Bottle 1L",
+    "brand": "AquaSteel",
+    "category": "Home",
+    "price": 649,
+    "attributes": [
+      "1 litre",
+      "double wall",
+      "24h cold"
+    ],
+    "description": "Double-wall insulated steel bottle that keeps drinks cold for 24 hours.",
+    "image": "aqua-bottle.jpg",
+    "sellerKey": "B",
+    "analysis": {
+      "score": 0.961,
+      "signals": [
+        {
+          "key": "compression",
+          "label": "Compression consistency",
+          "risk": 0.078,
+          "weight": 0.5,
+          "detail": "Compression error is evenly spread across the image."
+        },
+        {
+          "key": "noise",
+          "label": "Sensor-noise consistency",
+          "risk": 0.0,
+          "weight": 0.5,
+          "detail": "Grain / noise pattern is uniform across the image."
+        },
+        {
+          "key": "clone",
+          "label": "Repeated-region check",
+          "risk": 0.0,
+          "weight": 0.7,
+          "detail": "No duplicated regions detected."
+        },
+        {
+          "key": "metadata",
+          "label": "File metadata",
+          "risk": 0.0,
+          "weight": 0.5,
+          "detail": "Camera metadata present (Canon EOS 90D)."
+        }
+      ],
+      "model": "heuristic-forensics-v1",
+      "meta": {
+        "format": "JPEG",
+        "width": 800,
+        "height": 600,
+        "software": "",
+        "camera": "Canon EOS 90D",
+        "has_exif": true
+      }
+    }
+  }
+]

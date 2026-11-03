@@ -1,0 +1,7 @@
+node_modules/
+backend/data/
+ml-service/models/
+__pycache__/
+*.pyc
+.env
+frontend/node_modules/
